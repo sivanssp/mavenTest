@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="145" started-at="2021-07-07T14:18:02Z" finished-at="2021-07-07T14:18:02Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="145" started-at="2021-07-07T14:18:02Z" finished-at="2021-07-07T14:18:02Z">
+      <class name="com.mavendemo.Testcalss2">
+        <test-method status="PASS" signature="TC3()[pri:0, instance:com.mavendemo.Testcalss2@45018215]" name="TC3" duration-ms="6" started-at="2021-07-07T14:18:02Z" finished-at="2021-07-07T14:18:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC3 -->
+        <test-method status="PASS" signature="TC4()[pri:0, instance:com.mavendemo.Testcalss2@45018215]" name="TC4" duration-ms="7" started-at="2021-07-07T14:18:02Z" finished-at="2021-07-07T14:18:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC4 -->
+      </class> <!-- com.mavendemo.Testcalss2 -->
+      <class name="com.mavendemo.Testclass">
+        <test-method status="PASS" signature="TC1()[pri:0, instance:com.mavendemo.Testclass@7219ec67]" name="TC1" duration-ms="28" started-at="2021-07-07T14:18:02Z" finished-at="2021-07-07T14:18:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1 -->
+        <test-method status="PASS" signature="TC2()[pri:0, instance:com.mavendemo.Testclass@7219ec67]" name="TC2" duration-ms="4" started-at="2021-07-07T14:18:02Z" finished-at="2021-07-07T14:18:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC2 -->
+      </class> <!-- com.mavendemo.Testclass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
