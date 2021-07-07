@@ -43,7 +43,7 @@
           <version>3.0.0-M2</version>
           <configuration>
           <suiteXmlFiles>
-          <suiteXmlFile>F:\MWS\mavenTest\testng.xml</suiteXmlFile>
+          <suiteXmlFile>${xmlFiles}</suiteXmlFile>
           </suiteXmlFiles>
           </configuration>
         </plugin>
